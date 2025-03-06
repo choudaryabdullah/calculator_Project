@@ -4,6 +4,7 @@ console. writeline("enter first number") ;
 int num1=convert.ToInt32("Console.ReadLine") ;
 console. writeline("enter second number") ;
 int num2=convert.ToInt32("Console.ReadLine") ;
+ addition
  substraction
 num = num1*num2;
 =======
@@ -12,3 +13,6 @@ num = num1-num2;
 =======
 num = num1/num2;
  addition
+=======
+num = num1//num2;
+ main
