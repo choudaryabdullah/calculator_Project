@@ -1,2 +1,7 @@
 Console.WritrLine("Abdullah");
 console.WriteLine(24-ST-025);
+console. writeline("enter first number") ;
+int num1=convert.ToInt32("Console.ReadLine") ;
+console. writeline("enter second number") ;
+int num2=convert.ToInt32("Console.ReadLine") ;
+num = num1*num2;
