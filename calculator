@@ -1,4 +1,8 @@
+ conflict2
 Console.WritrLine("chaudry Abdullah");
+=======
+Console.WritrLine("Abdullah chaudry");
+ main
 console.WriteLine(24-ST-025);
 console. writeline("enter first number") ;
 int num1=convert.ToInt32("Console.ReadLine") ;
